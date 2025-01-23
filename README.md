@@ -41,3 +41,43 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 Si la lista está vacía, se muestra una alerta en vez de intentar el sorteo.
 
+-------------------------------------------------------------
+
+In this challenge, users enter the names of friends into a list and then perform a random draw to determine who the "secret friend" is.
+
+The user will add names using a text field and an "Add" button. The names entered will be displayed in a list visible on the page, and upon completion, a "Draw Friend" button will randomly select one of the names, displaying the result on the screen.
+
+## Features:
+
+✦ Add Names: Users will type a friend's name into a text field and add it to a visible list by clicking "Add."
+
+✦ Validate Input: If the text field is empty, the program will display an alert asking for a valid name.
+
+✦ View List: The names entered will appear in a list below the input field.
+
+✦ Random Draw: Clicking the "Draw Friend" button will randomly select a name from the list and display it on the page.
+
+## Code Explanation
+
+✔ Add names:
+
+▹The user enters a name in the text field and presses "Add".
+
+▹It is validated that it is not empty before adding it to the friendsList.
+
+▹The list is updated dynamically on the page.
+
+✔ Delete names:
+
+▹Each name has a "❌" button to remove it from the list.
+
+✔ Draw a friend:
+
+▹A random name is chosen from the friendsList.
+
+▹The result is displayed on the screen.
+
+📌 Extra:
+
+If the list is empty, an alert is displayed instead of attempting the draw.
+
