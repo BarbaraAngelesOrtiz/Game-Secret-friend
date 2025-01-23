@@ -15,17 +15,24 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 ## Explicación del Código
 
 ✔ Agregar nombres:
+
 ▹El usuario ingresa un nombre en el campo de texto y presiona "Adicionar".
+
 ▹Se valida que no esté vacío antes de agregarlo a friendsList.
+
 ▹La lista se actualiza dinámicamente en la página.
 
 ✔ Eliminar nombres:
+
 ▹Cada nombre tiene un botón "❌" para eliminarlo de la lista.
 
 ✔ Sortear un amigo:
+
 ▹Se elige un nombre aleatorio de friendsList.
+
 ▹Se muestra el resultado en la pantalla.
 
 📌 Extra:
+
 Si la lista está vacía, se muestra una alerta en vez de intentar el sorteo.
 
