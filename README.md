@@ -90,5 +90,10 @@ If the list is empty, an alert is displayed instead of attempting the draw.
 
 ![Status](https://img.shields.io/badge/status-finished-brightgreen)
 
-![Python](https://img.shields.io/badge/python-3.10-blue)
+![JavaScript](https://img.shields.io/badge/Javascript-blue)
+
+![CSS](https://img.shields.io/badge/CSS-yellow)
+
+![HTML](https://img.shields.io/badge/HTML-red)
+
 
