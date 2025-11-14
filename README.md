@@ -41,7 +41,8 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 Si la lista está vacía, se muestra una alerta en vez de intentar el sorteo.
 
--------------------------------------------------------------
+----
+---------------------------EN----------------------------------
 
 In this challenge, users enter the names of friends into a list and then perform a random draw to determine who the "secret friend" is.
 
